@@ -16,4 +16,4 @@
 
 #### Install:
 
->**git clone https://guthub.com/hullabaloid/dotfiles && mv dotfiles/.config/* ~/.config/ && mv dotfiles/.fehbg ~/ && mv dotfiles/.wallpaper.png ~/**
+>```git clone https://guthub.com/hullabaloid/dotfiles && mv dotfiles/.config/* ~/.config/ && mv dotfiles/.fehbg ~/ && mv dotfiles/.wallpaper.png ~/```
