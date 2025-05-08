@@ -4,8 +4,8 @@ for_window [class=".*"] border pixel 4
 
 client.focused		#66ef10 #66ef10 #ffffff #66ef10 #66ef10
 client.placeholder	#254f25 #2f842f #ffffff #254f25 #254f25
-client.unfocused	#1a1a1a	#1a1a1a	#ffffff	#1a1a1a	#1a1a1a
-client.focused_inactive	#1a1a1a	#1a1a1a	#ffffff	#1a1a1a	#1a1a1a
+client.unfocused	#808080	#808080	#ffffff	#808080	#808080
+client.focused_inactive	#808080	#808080	#ffffff	#808080	#808080
 
 
 gaps inner 10px
